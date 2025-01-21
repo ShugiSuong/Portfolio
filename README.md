@@ -45,6 +45,6 @@ The primary aim of this project is to present key insights and actionable recomm
 This is one of the projects I recently completed during my data analytics course. The dataset includes HR management data encompassing recruitment sources, employee performance metrics, diversity statistics, salaries, and employee satisfaction scores.
 ### Objective
 The primary objective of this project is to conduct a thorough analysis of the employee data to uncover insights regarding the effectiveness of the company's recruitment strategies, assess the diversity among employees, and identify the traits and characteristics associated with high-performing individuals within the organization. These findings will support initiatives aimed at enhancing recruitment practices, fostering diversity, and improving overall employee performance.
-### Dashboard built on Excel [here] (https://github.com/ShugiSuong/Excel-dashboard-HR-dataset)
+### Dashboard built on Excel [Check out here](https://github.com/ShugiSuong/Excel-dashboard-HR-dataset)
 <img width="631" alt="HR dashboard 2" src="https://github.com/user-attachments/assets/7d9b49e1-199c-47ce-9de7-030a7983530a" />
 
