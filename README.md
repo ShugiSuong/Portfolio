@@ -1,4 +1,4 @@
-# Suong's Portfolio
+# Analytic Portfolio
 ## Project 1: Improving profitability - Northwind distributor
 ### Overview:
 This project focuses on a wholesale distributor operating in the B2B sector, primarily serving grocery stores, supermarkets, and restaurants. The business has established relationships with 91 customers across 21 countries and collaborates with 29 suppliers from 16 different countries. The company sells a portfolio of 77 products categorized into 8 distinct groups. With a team of 9 employees, it operates an online selling platform. The analysis covers data from June 1996 to April 1998, with 12 interconnected tables linked to 2,155 primary sales records.
